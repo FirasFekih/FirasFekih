@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
-- 🥅 2022 Goals: Finish my studies!
-- ⚡ Fun fact: I love Football, Chess and playing Harmonica 🤣
+- 🥅 2022 Goals : Finish my studies and get a job!
+- ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
 ### Connect with me :   
 
