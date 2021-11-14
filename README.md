@@ -30,10 +30,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+</br>
 <a href="https://github.com/FirasFekih">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasFekih&theme=light&hide_langs_below=1" />
 </a>
+</br>
 <a href="https://github.com/FirasFekih">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasFekih&show_icons=true&theme=light&line_height=27" alt="Firas's github stats"/>
 </a>
