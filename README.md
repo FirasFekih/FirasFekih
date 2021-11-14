@@ -4,7 +4,7 @@
 <hr size="4" width="30%" color="black">  
 <br>
 ## I'm a Teleinformatics Engineering Student and CHESS instructor !
-<br>
+</br>
 - 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
 - 🥅 2022 Goals: Finish my studies!
