@@ -3,19 +3,15 @@
 
 <hr size="4" width="30%" color="black">  
 
-<br>
 ## I'm a Teleinformatics Engineering Student and CHESS instructor !
 
-<br>
 - 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
 - 🥅 2022 Goals: Finish my studies!
 - ⚡ Fun fact: I love Football, Chess and playing Harmonica 🤣
-<br>
 
 ### Connect with me :   
 
-<br>
 [<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [![Linkedin: firasfekih](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/firasfekih/)
