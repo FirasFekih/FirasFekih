@@ -12,11 +12,9 @@
 
 ### Connect with me :   
 
-[<img align="center" alt="firasfekih | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [![Linkedin: firasfekih](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/firasfekih/)
-
-[<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/FirasFekih)
 
@@ -37,13 +35,13 @@
 
 
 
-<a href="https://github.com/FirasFekih">
+<a href="https://github.com/FirasFekih" align="center"">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasFekih&theme=light&hide_langs_below=1" />
 </a>
 
 
 
-<a href="https://github.com/FirasFekih">
+<a href="https://github.com/FirasFekih" align="center"">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasFekih&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
 </a>
 
