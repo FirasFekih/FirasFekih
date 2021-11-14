@@ -1,6 +1,7 @@
 
 ### Hi there, I'm Firas 👋 
 
+<hr size="4" width="30%" color="black">  
 
 ## I'm a Teleinformatics Engineering Student and CHESS instructor !
 
