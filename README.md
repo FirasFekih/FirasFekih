@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love Football, Chess and playing Harmonica 🤣
 
 ### Connect with me :   
-
+<hr size="2" width="15%" color="yellow"> 
 [<img align="center" alt="Firas Fékih | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 [![Linkedin: firasfekih](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/firasfekih/)
@@ -20,6 +20,7 @@
 <br>
 
 ### Languages and Tools :
+<hr size="2" width="15%" color="yellow"> 
 
 <br>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -38,6 +39,7 @@
 
 
 ### Statistics :
+<hr size="2" width="15%" color="yellow"> 
 
 <br>
 <a href="https://github.com/FirasFekih" align="center">
