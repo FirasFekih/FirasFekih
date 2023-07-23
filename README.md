@@ -5,8 +5,8 @@
 
 ## I'm a Telecomputing Engineer and current AI Master's degree student!
 
-- 🌱 I’m currently learning AI and Deep Learning.
-- 👯 I’m looking for End Of Studies internship.
+- 🌱 I’m currently learning Data Analytics.
+- 👯 I’m looking for an internship.
 - 🥅 2023 Goals : Finish my studies and get a job!
 - ⚡ Hobbies : I love Football and Chess. 🤣
 
